@@ -1,6 +1,6 @@
 # gRPC Microservices Example with NestJS
 
-This repository demonstrates a practical implementation of microservices communication using gRPC with NestJS. The project simulates a simple e-commerce system with two separate services:
+This repository demonstrates a practical implementation of microservices communication using gRPC with NestJS, for more information see: https://carlosnoronha.tech/articles/microservice-grcp-nodejs-nestjs. The project simulates a simple e-commerce system with two separate services:
 
 - **Catalog Service**: REST API that serves product information to clients
 - **Inventory Service**: gRPC service that maintains real-time stock information
